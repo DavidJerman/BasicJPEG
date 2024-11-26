@@ -4,5 +4,5 @@
 
 int main()
 {
-    std::cout << "Hello World!" << std::endl;
+    JPEG jpeg("samples/sample.bmp");
 }

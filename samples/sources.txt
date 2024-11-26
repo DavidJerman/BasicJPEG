@@ -1,0 +1,2 @@
+sample.bmp: https://filesamples.com/formats/bmp
+sample.jpg: https://filesamples.com/formats/jpg
